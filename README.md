@@ -1,4 +1,4 @@
-# Modeling the COVID Conversation through Natural Language Processing
+# Investigating the COVID Conversation through Natural Language Processing
 My fourth project as part of the Metis data science bootcamp.
 
 ## Goal
